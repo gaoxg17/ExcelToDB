@@ -1,0 +1,74 @@
+19332 2018-11-08 16:59:17,492 [1] INFO  ExcelToDB.Program [(null)] - 开始执行
+
+20116 2018-11-08 16:59:18,277 [1] ERROR ExcelToDB.Lib.csExcelToDB [(null)] - 读取配置文件ExcelToDB.Lib.csExcelToDB.config出现异常！
+
+20116 2018-11-08 16:59:18,277 [1] ERROR ExcelToDB.Lib.csExcelToDB [(null)] - 异常描述：	XML 文档(2, 2)中有错误。
+
+20116 2018-11-08 16:59:18,277 [1] ERROR ExcelToDB.Lib.csExcelToDB [(null)] - 引发异常的方法：	System.Object Deserialize(System.Xml.XmlReader, System.String, System.Xml.Serialization.XmlDeserializationEvents)
+
+20120 2018-11-08 16:59:18,281 [1] ERROR ExcelToDB.Lib.csExcelToDB [(null)] - 异常堆栈：	   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   在 ExcelToDB.Lib.csExcelToDB.fromXmlFile(String xmlFileName) 位置 C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\Lib\csExcel2Oracle.cs:行号 106
+
+3937 2018-11-08 17:00:59,712 [1] INFO  ExcelToDB.Program [(null)] - 开始执行
+
+26688 2018-11-08 17:01:22,463 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取SheetNames
+
+28188 2018-11-08 17:01:23,963 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取SheetNames成功
+
+37196 2018-11-08 17:01:32,971 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取Excel数据
+
+51573 2018-11-08 17:01:47,348 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取Excel数据成功
+
+75636 2018-11-08 17:02:11,411 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始入库数据
+
+2964 2018-11-08 17:34:50,404 [1] INFO  ExcelToDB.Program [(null)] - 开始执行
+
+4914 2018-11-08 17:34:52,354 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取SheetNames
+
+5119 2018-11-08 17:34:52,559 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取SheetNames成功
+
+5120 2018-11-08 17:34:52,560 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取Excel数据
+
+5161 2018-11-08 17:34:52,600 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取Excel数据成功
+
+5172 2018-11-08 17:34:52,612 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始入库数据
+
+500 2018-11-08 17:53:30,739 [1] INFO  ExcelToDB.Program [(null)] - 开始执行
+
+50276 2018-11-08 17:54:20,514 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取SheetNames
+
+52265 2018-11-08 17:54:22,504 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取SheetNames成功
+
+52267 2018-11-08 17:54:22,506 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取Excel数据
+
+52490 2018-11-08 17:54:22,728 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取Excel数据成功
+
+52603 2018-11-08 17:54:22,842 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始入库数据
+
+63366 2018-11-08 17:54:33,604 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取SheetNames
+
+63448 2018-11-08 17:54:33,687 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取SheetNames成功
+
+673 2018-11-08 18:14:15,837 [1] INFO  ExcelToDB.Program [(null)] - 开始执行
+
+7437 2018-11-08 18:14:22,601 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取SheetNames
+
+7571 2018-11-08 18:14:22,736 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取SheetNames成功
+
+8667 2018-11-08 18:14:23,832 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取Excel数据
+
+8759 2018-11-08 18:14:23,924 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取Excel数据成功
+
+234 2018-11-08 18:14:40,227 [1] INFO  ExcelToDB.Program [(null)] - 开始执行
+
+12059 2018-11-08 18:14:52,053 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取SheetNames
+
+12408 2018-11-08 18:14:52,402 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取SheetNames成功
+
+12410 2018-11-08 18:14:52,404 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始获取Excel数据
+
+12507 2018-11-08 18:14:52,500 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 获取Excel数据成功
+
+16635 2018-11-08 18:14:56,628 [1] INFO  ExcelToDB.Lib.Exec [(null)] - 开始入库数据
+

@@ -1,0 +1,12 @@
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\obj\Debug\ExcelToDB.csproj.CoreCompileInputs.cache
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\bin\Debug\ExcelToDB.exe.config
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\bin\Debug\ExcelToDB.exe
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\bin\Debug\ExcelToDB.pdb
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\bin\Debug\log4net.dll
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\bin\Debug\System.ValueTuple.dll
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\bin\Debug\log4net.xml
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\bin\Debug\System.ValueTuple.xml
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\obj\Debug\ExcelToDB.csproj.CopyComplete
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\obj\Debug\ExcelToDB.exe
+C:\Users\NXW\Desktop\XF\ExcelToDB\ExcelToDB\obj\Debug\ExcelToDB.pdb
